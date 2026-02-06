@@ -1,6 +1,7 @@
 'use client'
 
 import { useSearchParams } from 'next/navigation'
+import Link from 'next/link'
 import { useState, useEffect } from 'react'
 import { fetchSensors } from '@/lib/api'
 import { getSensorIcon, Sensor } from '@/lib/sensor-data'
@@ -62,7 +63,7 @@ function SensorPageContent() {
               </h3>
               <div className="space-y-2">
                 {sensors.map((sensor) => (
-                  <a
+                  <Link
                     key={sensor.id}
                     href={`/sensors?id=${sensor.id}`}
                     className={`block p-3 rounded-lg transition-colors ${
@@ -82,7 +83,7 @@ function SensorPageContent() {
                     <div className="text-xs text-opacity-75">
                       {sensor.currentValue} {sensor.unit}
                     </div>
-                  </a>
+                  </Link>
                 ))}
               </div>
             </div>
