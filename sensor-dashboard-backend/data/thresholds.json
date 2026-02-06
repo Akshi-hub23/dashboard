@@ -1,6 +1,6 @@
 {
   "temperature": {
-    "warning": 29,
+    "warning": 31,
     "critical": 35
   },
   "humidity": {
