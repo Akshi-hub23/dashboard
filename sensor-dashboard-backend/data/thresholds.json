@@ -1,0 +1,18 @@
+{
+  "temperature": {
+    "warning": 29,
+    "critical": 35
+  },
+  "humidity": {
+    "warning": 75,
+    "critical": 85
+  },
+  "soilMoisture": {
+    "warning": 30,
+    "critical": 20
+  },
+  "gas": {
+    "warning": 300,
+    "critical": 500
+  }
+}
