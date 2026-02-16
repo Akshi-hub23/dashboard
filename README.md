@@ -6,9 +6,8 @@ Generative AI Dashboard
 [![Deployment](https://dashboard-akshitha.vercel.app/)](https://vercel.com)
 [![Frontend+Backend](https://img.shields.io/badge/Framework-Antigravity-7b5cff?style=flat)](#)
 [![UI Design](https://img.shields.io/badge/Design-Visily-0f172a?style=flat)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-A professional, beginner-friendly full-stack dashboard showcasing real-time sensor data, AI-driven insights, and a responsive UI — built with Visily, VS Code, and deployed on Vercel.
+A professional, beginner-friendly full-stack dashboard showcasing real-time sensor data, AI-driven insights, and a responsive UI — built with Visily, Antigravity, and deployed on Vercel.
 
 ---
 
@@ -17,7 +16,7 @@ A professional, beginner-friendly full-stack dashboard showcasing real-time sens
 This repository contains a Generative AI Dashboard — a full-stack project that visualizes sensor data in real time, surfaces AI-generated insights, and provides a clean, responsive UI suitable for demos and portfolios.
 
 - UI designed with **Visily** ✨
-- Frontend + Backend scaffolded using **VS Code** 🚀
+- Frontend + Backend scaffolded using **Antigravity** 🚀
 - Deployed on **Vercel** ☁️
 - Demonstrates core Generative AI concepts (LLMs, embeddings, prompts)
 
@@ -164,8 +163,8 @@ Tip: Vercel can auto-deploy from `main` on every push for a polished portfolio e
 
 Replace these placeholders with actual images from `sensor-dashboard-frontend/public`.
 
-![alerts Placeholder](./sensor-dashboard-frontend/public/alerts.jpeg)
 ![overview Placeholder](./sensor-dashboard-frontend/public/overview.jpeg)
+![alerts Placeholder](./sensor-dashboard-frontend/public/alerts.jpeg)
 ![raw_data Placeholder](./sensor-dashboard-frontend/public/raw_data.jpeg)
 ![sensors Placeholder](./sensor-dashboard-frontend/public/sensors.jpeg)
 
@@ -192,7 +191,6 @@ This project is provided under the **MIT License**. See the `LICENSE` file for d
 
 If you want, I can also:
 
-- Add actual screenshots to the `public/` folder and update the README
 - Add a short demo GIF and link to a live Vercel deployment
 
 Happy to make those next — tell me which screenshot images you'd like added!
