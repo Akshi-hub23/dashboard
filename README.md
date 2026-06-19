@@ -3,7 +3,9 @@ Generative AI Dashboard
 -->
 # 🚀 Generative AI Dashboard
 
-[![Deployment](https://dashboard-akshitha.vercel.app/)](https://vercel.com)
+**[Live Demo: https://dashboard-akshitha.vercel.app/](https://dashboard-akshitha.vercel.app/)**
+
+[![Deployment](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=flat&logo=vercel)](https://dashboard-akshitha.vercel.app/)
 [![Frontend+Backend](https://img.shields.io/badge/Framework-Antigravity-7b5cff?style=flat)](#)
 [![UI Design](https://img.shields.io/badge/Design-Visily-0f172a?style=flat)](#)
 
