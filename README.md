@@ -172,23 +172,4 @@ Replace these placeholders with actual images from `sensor-dashboard-frontend/pu
 
 ---
 
-## 🤝 Contribution
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feat/my-feature`
-3. Commit your changes: `git commit -m "feat: add ..."`
-4. Push and open a pull request
-
-Please open issues for bugs or feature requests.
-
----
-
-
-If you want, I can also:
-
-- Add a short demo GIF and link to a live Vercel deployment
-
-Happy to make those next — tell me which screenshot images you'd like added!
 # dashboard
